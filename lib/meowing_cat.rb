@@ -19,5 +19,4 @@ class Cat
     puts "meow!"
   end
 
-
 end
