@@ -15,6 +15,6 @@ class Cat
 
   attr_accessor :name
 
-  "Maru" = cat.new
+  
 
 end
